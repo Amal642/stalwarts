@@ -1,4 +1,4 @@
-# stalwarts
+# Stalwarts
 
 Unique Online Voting System by Team Stalwarts
 
